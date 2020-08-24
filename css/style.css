@@ -1,7 +1,76 @@
 body {
-    background-color: rgb(176, 176, 255);
+    background-color: #234;
+}
+#big{
+ 
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+ 
 }
 
+#bg1{
+    height: 80%;
+    width: 80%;
+}
+#group1{
+    position: absolute;
+    left: 10%;
+    top: 250px;
+
+}
+
+#ballon1{
+    width: auto;
+    height: auto;
+}
+
+#group2{
+    position: absolute;
+    left: 15%;
+    top: 250px;
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
 #big {
     position: absolute;
     top: 700px;
@@ -15,7 +84,7 @@ body {
     height: 2000px;
 }
 
-#ballon1 {
+#group {
     position: absolute;
     left: 500px;
     top: 200px;
@@ -27,4 +96,4 @@ body {
     left: 500px;
     top: 200px;
     height: 2000px;
-}
+}*/
