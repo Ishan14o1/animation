@@ -5,17 +5,17 @@ body{
 #big {
     background-image: url(../image/bigballon.svg);
     background-repeat: no-repeat;
-    height: 2000px;
-    width: 1000px;
+    height: 200px;
+    width: 100px;
     background-size: contain;
     margin: 0px;
     position: absolute;
-    left: 50%;
-    top: 30%;
+    left: 500px;
+    top: 300px;
 }
 
 #group1 {
-    top: 200px;
+    top: 0px;
     position: absolute;
     overflow: hidden;
     height: 70%;
@@ -28,7 +28,7 @@ body{
 }
 
 #group2 {
-    top: 200px;
+    top: 100px;
     position: absolute;
     overflow: hidden;
     height: 70%;
