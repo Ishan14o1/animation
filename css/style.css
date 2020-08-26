@@ -1,6 +1,7 @@
 body{
     background-image: url(../image/sky.svg);
     background-size: cover;
+    overflow: hidden;
 }
 #big {
     background-image: url(../image/bigballon.svg);

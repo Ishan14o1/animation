@@ -4,7 +4,7 @@ function fly() {
   var id = setInterval(frame, 10);
 
   function frame() {
-    if (pos == -800) {
+    if (pos == -900) {
       pos = 1500;
     } else {
       pos = pos -1;
@@ -19,9 +19,9 @@ function fly2() {
 
   function frame() {
     if (pos == 1500) {
-      pos = -800;
+      pos = -900;
     } else {
-      pos = pos + 3;
+      pos = pos +2;
       elem.style.left = pos + 'px';
     }
   }
